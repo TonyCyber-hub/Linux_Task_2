@@ -1,0 +1,19 @@
+total 16
+drwxrwxr-x 2 student01 student01 4096 Sep 30 06:34 .
+drwxrwxr-x 6 student01 student01 4096 Sep 30 06:29 ..
+-rwxrwxr-x 1 student01 student01   54 Sep 30 06:34 install.sh
+-rw-rw-r-- 1 student01 student01   65 Sep 30 06:34 report.txt
+total 12
+drwxrwxr-x 2 student01 student01 4096 Sep 30 06:08 .
+drwxrwxr-x 6 student01 student01 4096 Sep 30 06:29 ..
+-rw-rw---- 1 student01 student01   11 Sep 30 05:53 classified.txt
+total 12
+drwxrwxr-x 2 student01 student01 4096 Sep 30 06:28 .
+drwxrwxr-x 6 student01 student01 4096 Sep 30 06:29 ..
+-rw-rw-r-- 1 student01 student01   65 Sep 30 05:58 report.txt
+total 16
+drwxrwxr-x 2 student01 student01 4096 Sep 30 06:12 .
+drwxrwxr-x 6 student01 student01 4096 Sep 30 06:29 ..
+-rwxrwxr-x 1 student01 student01   54 Sep 30 06:12 install.sh
+-rw-rw-r-- 1 student01 student01   65 Sep 30 06:00 report.txt
+

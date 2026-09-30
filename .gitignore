@@ -1,0 +1,26 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python/cache artifacts if tools are later used
+__pycache__/
+*.pyc
+
+# Lab secrets and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# Local command-history output may contain unrelated shell commands
+commands_used.txt
+
+# Evidence generated outside the repository
+*.log
